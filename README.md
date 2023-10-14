@@ -15,3 +15,5 @@ strated we could extract the deeper semantic
 relationship between word pairs by comparing
 them directly and exploring their neighbouring
 words.
+
+Source dataset for Bangla model: https://www.kaggle.com/datasets/ebiswas/bangla-largest-newspaper-dataset
